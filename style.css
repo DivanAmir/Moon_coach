@@ -100,7 +100,7 @@ nav > ul > li {
 }
 .frames{
   height: 700px;
-  background-image: url('images/Frame.png');
+  background-image: url('Frame.png');
   background-repeat: no-repeat;
   background-position: center;
   /* background-size: cover; */
@@ -113,7 +113,7 @@ nav > ul > li {
   padding: 100px;
 }
 .facts__hand{
-  background-image: url("images/IMAGEhand.png");
+  background-image: url("IMAGEhand.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -193,7 +193,7 @@ color: #333333;
   color: #333333;
 }
 .query__flower{
-  background-image: url("images/Frameflower.png");
+  background-image: url("Frameflower.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
